@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules
+
+# Configuration directories
+config
+
+# Data directories
+db
+dump
+*.tgz
